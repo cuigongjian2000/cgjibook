@@ -1,0 +1,23 @@
+{
+  "name": "cgjibook",
+  "version": "1.0.0",
+  "description": "自动化构建的book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuigongjian2000/cgjibook.git"
+  },
+  "keywords": [],
+  "author": "cuigongjian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuigongjian2000/cgjibook/issues"
+  },
+  "homepage": "https://github.com/cuigongjian2000/cgjibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
